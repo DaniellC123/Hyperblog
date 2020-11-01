@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Bienvenido Hyperblog</title>
+        <title>Bienvenido a este Hyperblog</title>
         <link rel="stylesheet" href="css/estilos.css" />
     </head>
     <body>
